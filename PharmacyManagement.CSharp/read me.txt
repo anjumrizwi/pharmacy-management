@@ -1,0 +1,9 @@
+(vb 6) converted c# runiing Visual studio 2022
+1) 
+2) put pharm.mdb file in My Documents 
+
+login cred
+
+user name = "admin"
+email = "mail@admin"
+password = "#access"
