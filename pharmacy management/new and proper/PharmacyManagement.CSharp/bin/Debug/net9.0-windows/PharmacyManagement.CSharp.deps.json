@@ -1,0 +1,94 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "PharmacyManagement.CSharp/1.0.0": {
+        "dependencies": {
+          "System.Data.OleDb": "9.0.8"
+        },
+        "runtime": {
+          "PharmacyManagement.CSharp.dll": {}
+        }
+      },
+      "System.Configuration.ConfigurationManager/9.0.8": {
+        "dependencies": {
+          "System.Diagnostics.EventLog": "9.0.8",
+          "System.Security.Cryptography.ProtectedData": "9.0.8"
+        }
+      },
+      "System.Data.OleDb/9.0.8": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "9.0.8",
+          "System.Diagnostics.PerformanceCounter": "9.0.8"
+        },
+        "runtime": {
+          "lib/net9.0/System.Data.OleDb.dll": {
+            "assemblyVersion": "9.0.0.8",
+            "fileVersion": "9.0.825.36511"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/net9.0/System.Data.OleDb.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "9.0.0.8",
+            "fileVersion": "9.0.825.36511"
+          }
+        }
+      },
+      "System.Diagnostics.EventLog/9.0.8": {},
+      "System.Diagnostics.PerformanceCounter/9.0.8": {
+        "dependencies": {
+          "System.Configuration.ConfigurationManager": "9.0.8"
+        }
+      },
+      "System.Security.Cryptography.ProtectedData/9.0.8": {}
+    }
+  },
+  "libraries": {
+    "PharmacyManagement.CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "System.Configuration.ConfigurationManager/9.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BR70HYY5jeOa/jBrd/wyydpuqhFyla2ybQRL/UPBIiSvctVqi18iQoM44Gx41jy7t6wuAdKuTnie6io4j8aq3w==",
+      "path": "system.configuration.configurationmanager/9.0.8",
+      "hashPath": "system.configuration.configurationmanager.9.0.8.nupkg.sha512"
+    },
+    "System.Data.OleDb/9.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-wCEMwzzrCS6Rdv2nliZQTE+b5mwsEOivRAHrUwHd01SRqJgVxDOtHjFhGQBtMPVY5niT/bZ0bE+0kbKz4Vx2TA==",
+      "path": "system.data.oledb/9.0.8",
+      "hashPath": "system.data.oledb.9.0.8.nupkg.sha512"
+    },
+    "System.Diagnostics.EventLog/9.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gebRF3JLLJ76jz1CQpvwezNapZUjFq20JQsaGHzBH0DzlkHBLpdhwkOei9usiOkIGMwU/L0ALWpNe1JE+5/itw==",
+      "path": "system.diagnostics.eventlog/9.0.8",
+      "hashPath": "system.diagnostics.eventlog.9.0.8.nupkg.sha512"
+    },
+    "System.Diagnostics.PerformanceCounter/9.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9jQDqjiJ9VF9M2eVdT09gfU8yg5mhqEkfiZeB3hMjlYApNVJK6vXt9u5T8Oj5Hc+H9zNmrRzTjkXtEF5HcbAfg==",
+      "path": "system.diagnostics.performancecounter/9.0.8",
+      "hashPath": "system.diagnostics.performancecounter.9.0.8.nupkg.sha512"
+    },
+    "System.Security.Cryptography.ProtectedData/9.0.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w7+KCnqmtDboV8dxTLxlUltasP7AgzNFdTLq1D/ey50ykgXW+CJBIQkzYZjgPzmjKB+/PGGUKYrH7TSbwrDtRw==",
+      "path": "system.security.cryptography.protecteddata/9.0.8",
+      "hashPath": "system.security.cryptography.protecteddata.9.0.8.nupkg.sha512"
+    }
+  }
+}

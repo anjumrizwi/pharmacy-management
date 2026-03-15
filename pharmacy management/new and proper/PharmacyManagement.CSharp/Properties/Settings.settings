@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="PharmacyManagement.CSharp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PHARMACY_DB_PATH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\GitHub\anjumrizwi\pharmacy-management-master\pharmacy-management-master\insider\pharmacy management\pharm.mdb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "h2/tJVE8xHA=",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\anjumrizwi\\pharmacy-management-master\\pharmacy-management-master\\insider\\pharmacy management\\new and proper\\PharmacyManagement.CSharp\\PharmacyManagement.CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anjum.rizwi\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.8\\system.configuration.configurationmanager.9.0.8.nupkg.sha512",
+    "C:\\Users\\anjum.rizwi\\.nuget\\packages\\system.data.oledb\\9.0.8\\system.data.oledb.9.0.8.nupkg.sha512",
+    "C:\\Users\\anjum.rizwi\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.8\\system.diagnostics.eventlog.9.0.8.nupkg.sha512",
+    "C:\\Users\\anjum.rizwi\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.8\\system.diagnostics.performancecounter.9.0.8.nupkg.sha512",
+    "C:\\Users\\anjum.rizwi\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.8\\system.security.cryptography.protecteddata.9.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

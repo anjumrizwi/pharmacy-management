@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\anjumrizwi\\pharmacy-management-master\\pharmacy-management-master\\insider\\pharmacy management\\new and proper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4EBAA7-0635-34E8-6A9F-A5B66CAE7A4C}|PharmacyManagement.CSharp.csproj|d:\\github\\anjumrizwi\\pharmacy-management-master\\pharmacy-management-master\\insider\\pharmacy management\\new and proper\\pharmacymanagement.csharp\\pharmacymanagement.csharp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CD4EBAA7-0635-34E8-6A9F-A5B66CAE7A4C}|PharmacyManagement.CSharp.csproj|solutionrelative:pharmacymanagement.csharp\\pharmacymanagement.csharp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4EBAA7-0635-34E8-6A9F-A5B66CAE7A4C}|PharmacyManagement.CSharp\\PharmacyManagement.CSharp.csproj|d:\\github\\anjumrizwi\\pharmacy-management-master\\pharmacy-management-master\\insider\\pharmacy management\\new and proper\\pharmacymanagement.csharp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD4EBAA7-0635-34E8-6A9F-A5B66CAE7A4C}|PharmacyManagement.CSharp\\PharmacyManagement.CSharp.csproj|solutionrelative:pharmacymanagement.csharp\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD4EBAA7-0635-34E8-6A9F-A5B66CAE7A4C}|PharmacyManagement.CSharp.csproj|d:\\github\\anjumrizwi\\pharmacy-management-master\\pharmacy-management-master\\insider\\pharmacy management\\new and proper\\pharmacymanagement.csharp\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{CD4EBAA7-0635-34E8-6A9F-A5B66CAE7A4C}|PharmacyManagement.CSharp.csproj|solutionrelative:pharmacymanagement.csharp\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\GitHub\\anjumrizwi\\pharmacy-management-master\\pharmacy-management-master\\insider\\pharmacy management\\new and proper\\PharmacyManagement.CSharp\\Data\\Database.cs",
+              "RelativeDocumentMoniker": "PharmacyManagement.CSharp\\Data\\Database.cs",
+              "ToolTip": "D:\\GitHub\\anjumrizwi\\pharmacy-management-master\\pharmacy-management-master\\insider\\pharmacy management\\new and proper\\PharmacyManagement.CSharp\\Data\\Database.cs",
+              "RelativeToolTip": "PharmacyManagement.CSharp\\Data\\Database.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA4wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T11:34:52.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\GitHub\\anjumrizwi\\pharmacy-management-master\\pharmacy-management-master\\insider\\pharmacy management\\new and proper\\PharmacyManagement.CSharp\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "PharmacyManagement.CSharp\\Properties\\Settings.settings",
+              "ToolTip": "D:\\GitHub\\anjumrizwi\\pharmacy-management-master\\pharmacy-management-master\\insider\\pharmacy management\\new and proper\\PharmacyManagement.CSharp\\Properties\\Settings.settings",
+              "RelativeToolTip": "PharmacyManagement.CSharp\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2026-03-13T11:29:44.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PharmacyManagement.CSharp",
+              "DocumentMoniker": "D:\\GitHub\\anjumrizwi\\pharmacy-management-master\\pharmacy-management-master\\insider\\pharmacy management\\new and proper\\PharmacyManagement.CSharp\\PharmacyManagement.CSharp.csproj",
+              "RelativeDocumentMoniker": "PharmacyManagement.CSharp\\PharmacyManagement.CSharp.csproj",
+              "ToolTip": "D:\\GitHub\\anjumrizwi\\pharmacy-management-master\\pharmacy-management-master\\insider\\pharmacy management\\new and proper\\PharmacyManagement.CSharp\\PharmacyManagement.CSharp.csproj",
+              "RelativeToolTip": "PharmacyManagement.CSharp\\PharmacyManagement.CSharp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-13T11:28:41.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
